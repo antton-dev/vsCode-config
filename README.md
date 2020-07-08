@@ -14,12 +14,13 @@ Pour associer un langage avec une extension, placer ce code dans le fichier `set
     }
     
 ### Correspondances
-|Extension|   Langage   |
-|---------|-------------|
-|  *.html |    html     |
-|  *.html | django-html |
-|  *.css  |     css     |
-|  *.py   |    python   |
-|  *.php  |     php     |
-|  *.js   | javascript  |
-|  *.json |    json     |
+|   Extension  |    Langage   |
+|--------------|--------------|
+|    *.html     |    html     |
+|    *.html     | django-html |
+|    *.css      |     css     |
+|    *.py       |    python   |
+|    *.php      |     php     |
+|    *.js       | javascript  |
+|    *.json     |    json     |
+|   *.blade.php |    blade    |
